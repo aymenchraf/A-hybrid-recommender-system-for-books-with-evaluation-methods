@@ -20,8 +20,9 @@ You can try the code a Python file through the following steps:
 4. The performance of the hybrid recommendation system or any other recommendation system built with the Surprise library can be evaluated through the file: TestAlgorithm.py .
 
 You can try the code as a Python notebook through the following steps:
-1. Upload the file to Google Colab or any similar environment.
+1. Upload Try&TestAlgorithms.ipynb to Google Colab or any similar environment.
 2. Create a new folder named "data", and upload the CSV files into it.
-3. Run it!
+3. change the ratings path and books path according to your configiration.
+4. Run it!
 
 If there are any errors or suggestions, please let me know. Thanks!
